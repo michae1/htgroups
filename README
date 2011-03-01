@@ -1,0 +1,7 @@
+manager for apache group file - just like htpasswd
+
+-l - list users in group
+-a [username] - adduser
+-d [username] - delete user
+
+
